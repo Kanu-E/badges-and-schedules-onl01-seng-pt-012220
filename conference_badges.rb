@@ -17,8 +17,8 @@ def assign_rooms(speakers)
 end
   
 def printer (attendees)
-  each do |conference|
-    
+   batch_badge_creator(attendees).each {|badges| puts badges}
+    assign_rooms(attendees).each {|
   
 # def square_array(array)
 #   arr = []
