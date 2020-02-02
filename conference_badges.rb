@@ -16,7 +16,7 @@ def assign_rooms(speakers)
  new_array
 end
   
-def conference_badges
+def printer (attendees)
   each do |conference|
     
   
