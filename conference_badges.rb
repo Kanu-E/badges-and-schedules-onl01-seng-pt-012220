@@ -16,8 +16,9 @@ def assign_rooms(speakers)
  new_array
 end
   
-conference_badges
-  
+def conference_badges
+  each do |conference|
+    
   
 # def square_array(array)
 #   arr = []
