@@ -16,7 +16,7 @@ def assign_rooms(speakers)
  new_array
 end
   
-
+conference_badges
   
   
 # def square_array(array)
