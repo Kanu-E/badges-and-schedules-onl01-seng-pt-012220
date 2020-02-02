@@ -16,7 +16,7 @@ def assign_rooms(speakers)
  new_array
 end
   
-  
+def 
   
   
 # def square_array(array)
